@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/1185818338_111797665_223132457.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_981097947_3352131593.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_3036679183_108124301.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_1142330608_3167364826.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_4200354829_3923554554.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_2081949057_3359072855.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_3201849554_231859014.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_2845820049_3123988572.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_1465910987_2582156008.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_3201849554_498035926.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_2651850935_1814770664.mp4'
+file 'file:E:/pandey/learning/data science/LangGraph-by-CampusX/9.creating a chatbot using LangGraph/media/videos/app/480p15/partial_movie_files/LangGraphAnimatedFlow/624642324_1839128356_2266718056.mp4'
